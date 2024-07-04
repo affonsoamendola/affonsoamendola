@@ -13,7 +13,7 @@ Eventually (tm)...
 - 💬 Ask me about old computers!
 - 📫 How to reach me: Send me an email, or a message on twitter https://twitter.com/AmendolaAffonso
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I (almost) have an undergraduate degree in astronomy (But I like calling myself an Astrophyisicist, sounds cooler!).
+- ⚡ Fun fact: I have an undergraduate degree in astronomy (But I like calling myself an Astrophysicist, sounds cooler!).
 <!--
 **affonsoamendola/affonsoamendola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
