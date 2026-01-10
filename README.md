@@ -6,14 +6,9 @@ You know...
 
 Eventually (tm)...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=affonsoamendola)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 I’m currently working on Educational Computer Games!
-- 🌱 I’m currently learning some more Advanced Unity Concepts, and coding for VR!
+- 🔭 I’m currently working on Games and Mods!
+- 🌱 I’m currently learning to play piano!
 - 💬 Ask me about old computers!
-- 📫 How to reach me: Send me an email, or a message on twitter https://twitter.com/AmendolaAffonso
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have an undergraduate degree in astronomy (But I like calling myself an Astrophysicist, sounds cooler!).
 <!--
 **affonsoamendola/affonsoamendola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
